@@ -1,0 +1,6 @@
+/Users/newadmin/progra/xamarin/android/Phoneword/Phoneword/obj/Debug/assemblies/Phoneword.dll
+/Users/newadmin/progra/xamarin/android/Phoneword/Phoneword/obj/Debug/assemblies/System.dll
+/Users/newadmin/progra/xamarin/android/Phoneword/Phoneword/obj/Debug/assemblies/System.Xml.dll
+/Users/newadmin/progra/xamarin/android/Phoneword/Phoneword/obj/Debug/assemblies/Mono.Android.dll
+/Users/newadmin/progra/xamarin/android/Phoneword/Phoneword/obj/Debug/assemblies/System.Core.dll
+/Users/newadmin/progra/xamarin/android/Phoneword/Phoneword/obj/Debug/assemblies/mscorlib.dll
